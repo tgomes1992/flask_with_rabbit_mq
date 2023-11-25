@@ -1,0 +1,4 @@
+env
+processed_files
+uploads
+__pycache__
